@@ -8,5 +8,5 @@
 3. Run `npm start` to start the development server.
 4. Open your browser and point to http://localhost:8080/
 
-The application has a web pack dev server, so as you make your changes in your code, the changes will be immeditely reflected in your browser.
+
 
